@@ -1,4 +1,5 @@
 (c) Aleksey Morozov https://github.com/aleksey-f-morozov/
+
 AS IS
 
 This is the CAN bus load indicator. Load oscilloscope. The microcontroller STM32F103 and the MT12232 
