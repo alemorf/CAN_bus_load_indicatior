@@ -1,0 +1,2 @@
+#!/bin/bash
+st-flash --reset --format ihex write build/cantest_stm32f103rbt.hex
